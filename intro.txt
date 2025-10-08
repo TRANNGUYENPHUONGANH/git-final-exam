@@ -12,4 +12,11 @@ Sở thích:
 Kỹ năng:
 1. Lập trình Python
 2. Sử dụng Git và GitHub
-3. Quản lý cơ sở dữ liệu 
+3. Quản lý cơ sở dữ liệu
+ 
+Kế hoạch học tập:
+1. Trong 3 tháng tới: Hoàn thành khóa học ReactJS nâng cao.
+2. Tập trung luyện tập thuật toán và cấu trúc dữ liệu trên LeetCode.
+3. Tham gia ít nhất một dự án mã nguồn mở để tích lũy kinh nghiệm thực tế.
+4. Học chuyên sâu về Docker và Kubernetes để triển khai ứng dụng.
+5. Đạt chứng chỉ AWS Certified Cloud Practitioner.

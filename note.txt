@@ -1,0 +1,4 @@
+Cảm nhận về Git
+- Mạnh mẽ trong quản lý lịch sử và cộng tác.
+- Cần kỷ luật khi đặt message và quy trình.
+- Dễ gây rối nếu không hiểu reset/revert.

@@ -1,0 +1,6 @@
+Tính năng A
+- Mô tả: Thêm trang 'About' cho dự án.
+- Lý do: Cung cấp thông tin nhóm phát triển.
+- Yêu cầu: Tối thiểu 5 dòng mô tả, có hình ảnh minh họa.
+- Tác động: Không ảnh hưởng logic backend.
+- Kế hoạch: Tạo route, view, cập nhật README.

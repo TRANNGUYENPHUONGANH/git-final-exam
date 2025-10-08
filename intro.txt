@@ -1,22 +1,16 @@
-Xin chào! Tôi là Trần Nguyễn Phương Anh, sinh viên năm 4 ngành Công nghệ Thông tin.
-Tôi có niềm đam mê lớn với lập trình backend và phát triển các ứng dụng web hiệu suất cao.
-Tôi luôn tìm kiếm cơ hội để học hỏi các công nghệ mới và cải thiện kỹ năng giải quyết vấn đề của mình.
-Mục tiêu nghề nghiệp của tôi là trở thành một kiến trúc sư phần mềm.
-Tôi tin rằng sự kiên trì và tư duy logic là chìa khóa để thành công.
+GIỚI THIỆU CÁ NHÂN
+1. Họ tên: Trần Nguyễn Phương Anh
+2. Ngày sinh: 07/11/2004
+3. Địa chỉ: TP. Hồ Chí Minh
+4. Nghề nghiệp: Sinh viên ngành Công nghệ thông tin
+5. Mục tiêu ngắn hạn: Thành thạo Git và GitHub.
 
-Sở thích:
-1. Đọc sách 
-2. Chơi cờ vua
-3. Chạy bộ buổi sáng
+SỞ THÍCH
+1. Đọc sách khoa học viễn tưởng
+2. Chơi cầu lông
+3. Nghe nhạc Jazz
 
-Kỹ năng:
-1. Lập trình Python
-2. Sử dụng Git và GitHub
-3. Quản lý cơ sở dữ liệu
- 
-Kế hoạch học tập:
-1. Trong 3 tháng tới: Hoàn thành khóa học ReactJS nâng cao.
-2. Tập trung luyện tập thuật toán và cấu trúc dữ liệu trên LeetCode.
-3. Tham gia ít nhất một dự án mã nguồn mở để tích lũy kinh nghiệm thực tế.
-4. Học chuyên sâu về Docker và Kubernetes để triển khai ứng dụng.
-5. Đạt chứng chỉ AWS Certified Cloud Practitioner.
+KỸ NĂNG
+1. Lập trình Python cơ bản
+2. Sử dụng thành thạo VS Code
+3. Làm việc nhóm và giao tiếp

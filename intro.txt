@@ -14,3 +14,10 @@ KỸ NĂNG
 1. Lập trình Python cơ bản
 2. Sử dụng thành thạo VS Code
 3. Làm việc nhóm và giao tiếp
+
+KẾ HOẠCH HỌC TẬP
+1. Trong 3 tháng tới: Hoàn thành khóa học về Git nâng cao.
+2. Học Docker và Kubernetes.
+3. Luyện tập làm việc với Pull Request hàng ngày.
+4. Tham gia đóng góp mã nguồn mở vào cuối năm nay.
+5. Mục tiêu lâu dài: Trở thành DevOps Engineer.

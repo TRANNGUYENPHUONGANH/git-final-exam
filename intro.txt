@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello, this is Nguyen Van A
+=======
+Xin chào, tôi là Nguyễn Văn A
+>>>>>>> feature-update
 Tôi có niềm đam mê lớn với lập trình backend và phát triển các ứng dụng web hiệu suất cao.
 Tôi luôn tìm kiếm cơ hội để học hỏi các công nghệ mới và cải thiện kỹ năng giải quyết vấn đề của mình.
 Mục tiêu nghề nghiệp của tôi là trở thành một kiến trúc sư phần mềm.

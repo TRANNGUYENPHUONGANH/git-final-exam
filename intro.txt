@@ -1,0 +1,15 @@
+Xin chào! Tôi là Trần Nguyễn Phương Anh, sinh viên năm 4 ngành Công nghệ Thông tin.
+Tôi có niềm đam mê lớn với lập trình backend và phát triển các ứng dụng web hiệu suất cao.
+Tôi luôn tìm kiếm cơ hội để học hỏi các công nghệ mới và cải thiện kỹ năng giải quyết vấn đề của mình.
+Mục tiêu nghề nghiệp của tôi là trở thành một kiến trúc sư phần mềm.
+Tôi tin rằng sự kiên trì và tư duy logic là chìa khóa để thành công.
+
+Sở thích:
+1. Đọc sách 
+2. Chơi cờ vua
+3. Chạy bộ buổi sáng
+
+Kỹ năng:
+1. Lập trình Python
+2. Sử dụng Git và GitHub
+3. Quản lý cơ sở dữ liệu 

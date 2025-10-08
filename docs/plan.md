@@ -1,0 +1,11 @@
+Kế hoạch học tập 1 tuần
+- Ngày bắt đầu: 09/10/2025
+- Ngày kết thúc: 15/10/2025
+- Ngày 1: Ôn Git cơ bản (init/clone/add/commit/push).
+- Ngày 2: Làm việc với branch (create/list/switch/merge).
+- Ngày 3: Xử lý xung đột merge.
+- Ngày 4: Diff, log, blame.
+- Ngày 5: Stash và áp dụng lại thay đổi.
+- Ngày 6: Reset/Revert/Restore.
+- Ngày 7: Tổng hợp + thực hành mini project.
+- Ghi chú: Mỗi ngày commit tối thiểu 1 lần.
